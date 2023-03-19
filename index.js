@@ -1096,7 +1096,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     if(data.license === `Unlicense`){
         licenseMessage = `This Product is Unlicensed`
 }
-}
 if(data.license === `Apache`){
     licenseMessage = `
     Apache License
